@@ -25,7 +25,7 @@ This is a Python-based YouTube Downloader application that allows you to downloa
      pip install pytubefix customtkinter pillow
      ```
 
-3. Ensure FFmpeg is installed and accessible via the command line.
+3. Ensure FFmpeg is installed and is in the same folder as the main.py.
 
 ## Usage
 
