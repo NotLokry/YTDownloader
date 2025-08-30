@@ -22,7 +22,7 @@ This is a Python-based YouTube Downloader application that allows you to downloa
 
 2. Install the required Python libraries:
      ```bash
-     pip install pytubefix customtkinter pillow
+     pip install pytubefix customtkinter pillow requests
      ```
 
 3. Ensure FFmpeg is installed and is in the same folder as the main.py.
